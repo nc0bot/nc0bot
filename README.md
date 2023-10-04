@@ -1,6 +1,11 @@
-Automation account for [@nseezero](https://github.com/nseezero).
+Bip. Boup. Bidiboup!
 
-Feel free to reach me on:
-
-* [Twitter](https://twitter.com/nseezero)
-* [Email](mailto:n@nc0.fr?subject=nc0bot)
+```text
+       .---.
+      /.@-@.\
+      /`\_/`\
+     //  _  \\
+    | \     )|_
+   /`\_`>  <_/ \
+nc0\__/'---'\__/
+```
